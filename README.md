@@ -5,6 +5,7 @@
 https://uhostleo.netlify.app/
 
 - main project from [this Udemy Course](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/).
-- developed mainly with HTML & CSS
-- designed with a Mobile-First approach
+- uses some JavaScript for modal, backdrop and mobile sidedrawer menu
+- developed with a Mobile-First design approach
 - combines both CSS Grid and Flexbox layout methods
+- _main goal while taking the course was not to deliver this website but to thoroughly understand modern CSS and semantic HTML. Therefore, one may notice some "unpolished" aspects in this project (e.g. modal buttons in mobile view, hamburger menu position in modal view, etc)_.
